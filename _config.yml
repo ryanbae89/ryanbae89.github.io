@@ -2,9 +2,11 @@
 title: Ryan Bae
 author: Ryan Bae
 email: ryanbae89@gmail.com
-description: This is my professional website. It contains my academic and professional background, interests, and projects.
+email2: rbae@uw.edu
+description: This website was built using GitHub Pages.
 twitter_username: heybaebae
 github_username:  heybaebae
+linkedin_username: ryanbae89
 
 # Build settings
 markdown: kramdown

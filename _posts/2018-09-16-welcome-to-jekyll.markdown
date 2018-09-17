@@ -1,25 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "My Website is Online!"
 date:   2018-09-16 19:02:50 -0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello everyone! My name is Ryan Bae, and I am a data scientist who is currently a MS student at University of Washington. Originally coming from aerospace engineering background, I decided to switch my career to data science in 2017, and it's been a crazy journey the past 1.5 years!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I made this page to organize my project portfolio, learn about Github Pages, and have my own website I can link people to when networking. It contains information about me, my education and professional background, hobbies, and last but not least, this blog. :)
 
-Jekyll also offers powerful support for code snippets:
+I will make periodic updates to this blog as my career in data science and machine learning progresses. Thanks for reading!
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Ryan
