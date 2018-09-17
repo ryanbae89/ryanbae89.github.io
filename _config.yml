@@ -1,0 +1,11 @@
+# basic options
+title: Ryan Bae
+author: Ryan Bae
+email: ryanbae89@gmail.com
+description: This is my professional website. It contains my academic and professional background, interests, and projects.
+twitter_username: heybaebae
+github_username:  heybaebae
+
+# Build settings
+markdown: kramdown
+theme: minima
