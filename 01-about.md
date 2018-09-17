@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+![alt text](images/headshot.png)
 <img src="images/headshot.png" alt="drawing" width="250"/>
 <img src="images/msft-hackathon.jpg" alt="drawing" width="300"/>
 
