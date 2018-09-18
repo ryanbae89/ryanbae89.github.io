@@ -3,10 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![headshot](images/headshot.png)
-![msft-hackathon](images/msft-hackathon.jpg)
-
-<img src="https://github.com/heybaebae/RyanBaeProfessionalPage/blob/master/images/msft-hackathon.jpg" width="300">
+<img src="https://github.com/heybaebae/RyanBaeProfessionalPage/blob/master/images/headshot.png?raw=true" width="300">
 
 <img src="https://github.com/heybaebae/RyanBaeProfessionalPage/blob/master/images/msft-hackathon.jpg?raw=true" width="300">
 
