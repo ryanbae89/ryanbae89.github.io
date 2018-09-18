@@ -25,5 +25,4 @@ I also played golf in high school, and occasionally hit the links every now and 
 
 <img src="https://github.com/heybaebae/RyanBaeProfessionalPage/blob/master/images/golf.jpg?raw=true" alt="drawing" width="500"/>
 
-
 I've also been playing guitar since high school in various groups and ensembles, including jazz bands/combos. My genre of interest are jazz, blues, acoustic, and classic rock.  
