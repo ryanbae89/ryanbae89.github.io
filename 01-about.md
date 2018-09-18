@@ -6,6 +6,8 @@ permalink: /about/
 ![headshot](images/headshot.png)
 ![msft-hackathon](images/msft-hackathon.jpg | width=300)
 
+<img src="https://github.com/favicon.ico" width="48">
+
 My name is Ryan Bae, and I am a data scientist and machine learning engineer currently based in Seattle, WA. My primary interest is in applied machine learning, building backend infrastructure, and optimizing business operations and products.
 
 I am currently a [Masters in Data Science](https://www.datasciencemasters.uw.edu/) candidate at University of Washington. I worked as a data scientist intern at [Microsoft](https://www.microsoft.com/en-us/)'s Core Data Science team in summer of 2018. During the 2017-2018 academic year I was a machine learning engineer intern at AI startup called [Clobotics](https://www.clobotics.com/).
