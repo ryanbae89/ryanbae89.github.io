@@ -3,9 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="https://github.com/heybaebae/RyanBaeProfessionalPage/blob/master/images/headshot.png?raw=true" width="300">
+<img src="https://github.com/heybaebae/RyanBaeProfessionalPage/blob/master/images/headshot.png?raw=true" width="250">
 
-<img src="https://github.com/heybaebae/RyanBaeProfessionalPage/blob/master/images/msft-hackathon.jpg?raw=true" width="300">
+<img src="https://github.com/heybaebae/RyanBaeProfessionalPage/blob/master/images/msft-hackathon.jpg?raw=true" width="250">
 
 My name is Ryan Bae, and I am a data scientist and machine learning engineer currently based in Seattle, WA. My primary interest is in applied machine learning, building backend infrastructure, and optimizing business operations and products.
 

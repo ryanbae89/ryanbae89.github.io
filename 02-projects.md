@@ -20,7 +20,7 @@ News articles recommender and analyzer performs topic modeling using Latent Diri
 
 It also tags topics to each article and outputs word cloud visualization in addition to the recommendation system.  
 
-[<img src="/images/news-recommender.png" width="700">](https://github.com/heybaebae/news_analyzer)
+[<img src="https://github.com/heybaebae/RyanBaeProfessionalPage/blob/master/images/news-recommender.png?raw=true" width="700">](https://github.com/heybaebae/news_analyzer)
 
 *A link to working UI is in progress... currently the picture links to the GitHub repo!*
 
@@ -34,7 +34,7 @@ Tools: Python (nltk, guidedlda)
 
 Visualization of UFO sightings in the United States in the past 70 years. Data source is from Kaggle, and contains info about ~80,000 UFO sightings around the world.
 
-[<img src="/images/aliens-dashboard.PNG" width="700">](https://ryanbae89.wixsite.com/ufo-sightings)
+[<img src="https://github.com/heybaebae/RyanBaeProfessionalPage/blob/master/images/aliens-dashboard.PNG?raw=true" width="700">](https://ryanbae89.wixsite.com/ufo-sightings)
 
 Data Source: [Kaggle](https://www.kaggle.com/camnugent/ufo-sightings-around-the-world)
 
