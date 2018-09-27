@@ -8,4 +8,4 @@ permalink: /resume/
 
 
 
-<embed src="https://github.com/heybaebae/RyanBaeProfessionalPage/blob/master/files/RyanBaeResume_09272018.pdf">
+<embed src="https://github.com/heybaebae/heybaebae.github.io/blob/master/files/RyanBaeResume_09272018.pdf">
