@@ -16,6 +16,8 @@ My current list of completed hikes in the Pacific Northwest area:
 * Mount Si
 * Wallace Falls
 * Poo Poo Point
+* Mailbox Peak (New Trail)
+* Mount Pilchuck
 
 Hikes in other places:
 
