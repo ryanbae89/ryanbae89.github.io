@@ -18,6 +18,7 @@ My current list of completed hikes in the Pacific Northwest area:
 * Poo Poo Point
 * Mailbox Peak (New Trail)
 * Mount Pilchuck
+* Mount Washington
 
 Hikes in other places:
 
