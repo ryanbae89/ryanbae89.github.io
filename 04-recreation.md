@@ -16,9 +16,12 @@ My current list of completed hikes in the Pacific Northwest area:
 * Mount Si
 * Wallace Falls
 * Poo Poo Point
+* Mount Rainier Paradise (Skyline Trail Loop)
 * Mailbox Peak (New Trail)
 * Mount Pilchuck
 * Mount Washington
+* Rattlesnake Ridge
+*
 
 Hikes in other places:
 
