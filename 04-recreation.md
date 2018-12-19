@@ -21,7 +21,6 @@ My current list of completed hikes in the Pacific Northwest area:
 * Mount Pilchuck
 * Mount Washington
 * Rattlesnake Ridge
-*
 
 Hikes in other places:
 

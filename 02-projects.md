@@ -8,9 +8,9 @@ Below are some data science and machine learning projects from academia and pers
 
 # Flight Delays and Twitter Sentiment Analysis
 
-Analysis of flight delays dataset from US Department of Transportation and Twitter sentiment of large US airlines. 
+Analysis of flight delays dataset from US Department of Transportation and Twitter sentiment of large US airlines.
 
-[<img src="https://raw.githubusercontent.com/ryanbae89/flight-delays-and-twitter/master/images/delays_overtime.png" width="700">](https://github.com/heybaebae/news_analyzer)
+[<img src="https://raw.githubusercontent.com/ryanbae89/flight-delays-and-twitter/master/images/delays_overtime.png" width="700">](https://github.com/ryanbae89/flight-delays-and-twitter)
 
 [GitHub Repo](https://github.com/ryanbae89/flight-delays-and-twitter)
 
