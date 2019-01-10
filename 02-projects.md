@@ -6,6 +6,8 @@ permalink: /projects/
 
 Below are some data science and machine learning projects from academia and personal studies. Also feel free to visit my [Github page](https://github.com/heybaebae).
 
+<div class="border" style="border:thick solid black">
+
 # Flight Delays and Twitter Sentiment Analysis
 
 Analysis of flight delays dataset from US Department of Transportation and Twitter sentiment of large US airlines.
@@ -13,6 +15,8 @@ Analysis of flight delays dataset from US Department of Transportation and Twitt
 [<img src="https://raw.githubusercontent.com/ryanbae89/flight-delays-and-twitter/master/images/delays_overtime.png" width="700">](https://github.com/ryanbae89/flight-delays-and-twitter)
 
 [GitHub Repo](https://github.com/ryanbae89/flight-delays-and-twitter)
+
+</div>
 
 # Implementation of Linear Support Vector Machine
 
