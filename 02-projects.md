@@ -18,6 +18,8 @@ Analysis of flight delays dataset from US Department of Transportation and Twitt
 
 </div>
 
+<div class="border" style="border:thick solid black">
+
 # Implementation of Linear Support Vector Machine
 
 My implementation of Linear Support Vector Machine classifier in the style of scikit-learn. It can perform both binary classification and multi-class classification using one-vs-one and one-vs-rest methods.
@@ -25,6 +27,10 @@ My implementation of Linear Support Vector Machine classifier in the style of sc
 [GitHub Repo](https://github.com/heybaebae/mklearn)
 
 Tools: Python (numpy, pandas, scikit-learn, matplotlib)
+
+</div>
+
+<div class="border" style="border:thick solid black">
 
 # News Articles Recommender and Analyzer
 
@@ -42,6 +48,10 @@ Data Source: [Kaggle](https://www.kaggle.com/snapcrack/all-the-news)
 
 Tools: Python (nltk, guidedlda)
 
+</div>
+
+<div class="border" style="border:thick solid black">
+
 # UFO Sightings Visualization/Dashboard
 
 Visualization of UFO sightings in the United States in the past 70 years. Data source is from Kaggle, and contains info about ~80,000 UFO sightings around the world.
@@ -51,3 +61,5 @@ Visualization of UFO sightings in the United States in the past 70 years. Data s
 Data Source: [Kaggle](https://www.kaggle.com/camnugent/ufo-sightings-around-the-world)
 
 Tools: Tableau, Python (folium)
+
+</div>
