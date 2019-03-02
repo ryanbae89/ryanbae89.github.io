@@ -6,6 +6,14 @@ permalink: /projects/
 
 Below are some data science and machine learning projects from academia and personal studies. Also feel free to visit my [Github page](https://github.com/heybaebae).
 
+# Video Similarity Search Engine
+
+This is the capstone project for the MS Data Science program I am finishing up at University of Washington.
+
+[Github Repo](https://github.com/CoderHam/VideoSimilarity)
+
+More details coming soon...
+
 # Flight Delays and Twitter Sentiment Analysis
 
 Analysis of flight delays dataset from US Department of Transportation and Twitter sentiment of large US airlines.
