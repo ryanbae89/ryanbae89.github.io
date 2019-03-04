@@ -6,8 +6,6 @@ permalink: /projects/
 
 Below are some data science and machine learning projects from academia and personal studies. Also feel free to visit my [Github page](https://github.com/heybaebae).
 
-<p class="groove">
-
 # Video Similarity Search Engine
 
 This is the capstone project for the MS Data Science program I am finishing up at University of Washington.
@@ -15,8 +13,6 @@ This is the capstone project for the MS Data Science program I am finishing up a
 [Github Repo](https://github.com/CoderHam/VideoSimilarity)
 
 More details coming soon...
-
-</p>
 
 # Flight Delays and Twitter Sentiment Analysis
 
