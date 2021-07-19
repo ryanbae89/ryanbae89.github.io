@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "2.5 years working as a full-time data scientist"
+date:   2021-07-18 19:02:50 -0700
+categories: jekyll update
+---
+
+Hi everyone, it's hard to believe it's July 2021. So much has happened myself (and also the world) since I last updated this blog, it's hard to summarize everything in a single post. I will likely write multiple posts summarizing everything I've learned in the past 2.5 years working full-time as a data scientist at Microsoft. But for now, I'll give a quick update on where I am currently.
+
+I still work largely in the same data science team at Microsoft when I first joined full-time. The team went through some [reorgs](https://henrykotula.com/2020/07/01/cartoon-the-company-reorg/), and is now called CSX Data, primarily focused on providing intelligence and AI services to Windows OS. BTW, I've been self-hosting the recently announced [Windows 11](https://www.microsoft.com/en-us/windows/windows-11), people should check it out.
+
+Since starting FT at Microsoft, I worked on 3 major projects, few more research-y side projects, gave 2 talks to large audiences at Microsoft's internal data science conference, expanded my network meeting some amazingly talented people, made numerous friends, vastly expanded my knowledge in NLP and customer feedback, implemented ML models in production, interviewed data scientist candidates, mentored interns, got promoted, and even won some team bocce tournaments :).
+
+Suffice to say, it's been a wild ride. Add to that a world-wide pandemic and year and half of working from home, and it's been an absolutely crazy past 2.5 years. I can absolutely say though that one thing that has stayed consistent throughout was that I continued to learn and grow. If I was not learning new things in every project I work on, I considered it wasted time. And thankfully there's been no shortage of that everyday I've worked at Microsoft so far.
+
+Well, that's enough for today. I will write more on this blog reflecting on my experiences as a full-time data scientist so far, so stay tuned!
+
+-Ryan

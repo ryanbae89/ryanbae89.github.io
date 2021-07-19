@@ -8,14 +8,21 @@ permalink: /about/
   <img src="https://github.com/heybaebae/RyanBaeProfessionalPage/blob/master/images/msft-hackathon.jpg?raw=true" alt="drawing" width="300"/>
 </p>
 
-My name is Ryan Bae, and I am a data scientist and machine learning engineer currently based in Seattle, WA. My primary interest is in applied machine learning and deep learning, building backend infrastructure, and optimizing business operations and products.
+My name is Ryan Bae, and I am a data scientist/machine learning engineer currently based in Seattle, WA. My primary interest is in applied machine learning and natural language processing.
 
-I currently work as a data scientist at [Microsoft](https://www.microsoft.com/en-us/)'s COSINE (Core OS and Intelligent Edge) team, working on the Windows Feedback hub and Azure products. I am also finishing up my [Masters in Data Science](https://www.datasciencemasters.uw.edu/) program at University of Washington. I worked as a data scientist intern at the same COSINE team at Microsoft in summer of 2018. During the 2017-2018 academic year I also worked as a machine learning engineer intern at an AI startup called [Clobotics](https://www.clobotics.com/).
+I have been working as a data scientist at [Microsoft](https://www.microsoft.com/en-us/)'s CSX Data team since 2019, adding intelligence and AI to the services side of Windows OS. Areas of my work include the following:
 
-Prior to becoming a data scientist I worked as a spacecraft propulsion engineer at [SSL](http://sslmda.com/). I got my Bachelor's and Master's in aerospace engineering from [UCLA](https://www.mae.ucla.edu/) and [Michigan](https://aero.engin.umich.edu/academics/graduate/mse/), specializing in rocket propulsion and computational fluid dynamics. During my graduate studies, I worked in the [Plasma Sciences and Technology Lab](https://pstlab.engin.umich.edu/) under Prof. John Foster.
+* Deriving business insights from customer feedback for Windows OS
+* Advancing in-house NLP knowledge by applying latest research techniques to customer feedback
+* Developing novel statistical methods for pattern-less personal data detection
+* Mentoring other early-in-career data scientists and interns
+
+I graduated from [Masters in Data Science](https://www.datasciencemasters.uw.edu/) program at University of Washington in 2019, during which I interned at the same team at Microsoft in summer of 2018. Earlier during my studies I also worked as a machine learning engineer intern at an AI startup called [Clobotics](https://www.clobotics.com/).
+
+Prior to becoming a data scientist I worked as a spacecraft propulsion engineer at [Maxar (formerly SSL)](http://sslmda.com/). I got my Bachelor's and Master's in aerospace engineering from [UCLA](https://www.mae.ucla.edu/) and [Michigan](https://aero.engin.umich.edu/academics/graduate/mse/), specializing in rocket propulsion and computational fluid dynamics. During my graduate studies, I worked in the [Plasma Sciences and Technology Lab](https://pstlab.engin.umich.edu/) under Prof. John Foster.
 
 Please take a look at the [resume page](https://ryanbae89.github.io/resume/) for my complete professional and academic history.
 
-And Please take a look at the [projects page](https://ryanbae89.github.io/projects/) for detailed information on some of the data science/machine learning projects I've completed in the past. 
+And Please take a look at the [projects page](https://ryanbae89.github.io/projects/) for a portfolio of some the data science/machine learning projects I've completed in the past (mostly academic).
 
-In my spare time I enjoy hiking and exploring the great outdoors that the Pacific Northwest has to offer. I am also an amateur guitar player, and have played in various groups ranging from acoustic/country to student jazz bands/combos at University of Michigan. Take a look at my [recreation page](https://ryanbae89.github.io/recreation/) for more information!
+In my spare time I enjoy hiking and exploring the great outdoors that the Pacific Northwest has to offer. I am also an amateur guitar player, and have played in various groups ranging from acoustic/country to student jazz bands/combos at University of Michigan. Take a look at my [recreation page](https://ryanbae89.github.io/recreation/) for more information.
