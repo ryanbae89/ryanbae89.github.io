@@ -5,7 +5,7 @@ date:   2021-07-18 19:02:50 -0700
 categories: jekyll update
 ---
 
-Hi everyone, it's hard to believe it's July 2021. So much has happened myself (and also the world) since I last updated this blog, it's hard to summarize everything in a single post. I will likely write multiple posts summarizing everything I've learned in the past 2.5 years working full-time as a data scientist at Microsoft. But for now, I'll give a quick update on where I am currently.
+Hi everyone, it's hard to believe it's July 2021. So much has happened to myself (and also the world) since I last updated this blog, it's hard to summarize everything in a single post. I will likely write multiple posts summarizing everything I've learned in the past 2.5 years working full-time as a data scientist at Microsoft. But for now, I'll give a quick update on where I am currently.
 
 I still work largely in the same data science team at Microsoft when I first joined full-time. The team went through some [reorgs](https://henrykotula.com/2020/07/01/cartoon-the-company-reorg/), and is now called CSX Data, primarily focused on providing intelligence and AI services to Windows OS. BTW, I've been self-hosting the recently announced [Windows 11](https://www.microsoft.com/en-us/windows/windows-11), people should check it out.
 

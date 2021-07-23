@@ -10,9 +10,9 @@ Below are some data science and machine learning projects from academia and pers
 
 This is the capstone project for the MS Data Science program I am finishing up at University of Washington.
 
-[Github Repo](https://github.com/CoderHam/VideoSimilarity)
+[<img src="https://github.com/heybaebae/RyanBaeProfessionalPage/blob/master/images/Video-Similarity-KNN-Flowchart.png" width="700">](https://github.com/CoderHam/VideoSimilarity)
 
-More details coming soon...
+[Github Repo](https://github.com/CoderHam/VideoSimilarity)
 
 # Flight Delays and Twitter Sentiment Analysis
 
