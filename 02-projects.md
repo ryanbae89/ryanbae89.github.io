@@ -6,11 +6,15 @@ permalink: /projects/
 
 Below are some data science and machine learning projects from academia and personal studies. Also feel free to visit my [Github page](https://github.com/heybaebae).
 
+# Gun Violence in the United States
+
+Self project in the works, more info coming soon...
+
 # Video Similarity Search Engine
 
-This is the capstone project for the MS Data Science program I am finishing up at University of Washington.
+This is the capstone project for the MS Data Science program I am finishing up at University of Washington. Using various featurization methods, we convert videos into feature vectors which are queried using k-nearest neighbor search.
 
-[<img src="https://github.com/heybaebae/RyanBaeProfessionalPage/blob/master/images/Video-Similarity-KNN-Flowchart.png" width="700">](https://github.com/CoderHam/VideoSimilarity)
+[<img src="https://github.com/ryanbae89/ryanbae89.github.io/blob/master/images/Video-Similarity-KNN-Flowchart.png?raw=true" width="700">](https://github.com/CoderHam/VideoSimilarity)
 
 [Github Repo](https://github.com/CoderHam/VideoSimilarity)
 
