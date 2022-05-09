@@ -8,7 +8,9 @@ Below are some data science and machine learning projects from academia and pers
 
 # Gun Violence in the United States
 
-Self project in the works, more info coming soon...
+This project tries to determine causes of gun deaths in the United States at the county level. I use various demographic, economic, and educational features to predict # of deaths from gun violence for a county in a given year. Resulting model is used to inference the most salient factors that are leading to gun violence in the US. 
+
+[GitHub Repo](https://github.com/ryanbae89/gun-violence-uscounties)
 
 # Video Similarity Search Engine
 
