@@ -6,6 +6,14 @@ permalink: /projects/
 
 Below are some data science and machine learning projects from academia and personal studies. Also feel free to visit my [Github page](https://github.com/heybaebae).
 
+# Yelp Reviews Q&A Bot
+
+My mom runs a small business that is service oriented, and she would often go read Yelp reviews to understand how the customers felt about her bsuiness. To help her with this, I built a GPT based question and answering bot to retrieve relevant information using conversational query. 
+
+[<img src="https://github.com/ryanbae89/ryanbae89.github.io/blob/master/images/yelp-qabot-ui.PNG?raw=true" width="700">](https://github.com/ryanbae89/yelp-review-conversation)
+
+[GitHub Repo](https://github.com/ryanbae89/yelp-review-conversation)
+
 # Gun Violence in the United States
 
 This project tries to determine causes of gun deaths in the United States at the county level. I use various demographic, economic, and educational features to predict # of deaths from gun violence for a county in a given year. Resulting model is used to inference the most salient factors that are leading to gun violence in the US.
