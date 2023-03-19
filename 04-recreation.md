@@ -26,12 +26,13 @@ My current list of completed hikes in the Pacific Northwest area:
 * Teneriffe Falls
 * Mount Defiance/Mason Lake  
 * Granite Mountain
+* The Enchantments
 
 Hikes in other places:
 
 * Yosemite Falls Hike, CA
 
-I also played golf in high school, and occasionally hit the links every now and then.
+I also played golf in high school, and occasionally hit the links every now and then. I recently got back into playing tennis as well during the pandemic.
 
 <img src="https://github.com/heybaebae/RyanBaeProfessionalPage/blob/master/images/golf.jpg?raw=true" alt="drawing" width="500"/>
 

@@ -8,12 +8,13 @@ permalink: /about/
   <img src="https://github.com/heybaebae/RyanBaeProfessionalPage/blob/master/images/msft-hackathon.jpg?raw=true" alt="drawing" width="300"/>
 </p>
 
-My name is Ryan Bae, and I am a data scientist/machine learning engineer currently based in Seattle, WA. My primary interest is in applied machine learning and natural language processing.
+My name is Ryan Bae, and I am a senior data & applied scientist currently based in Seattle, WA. My primary interest is in applied machine learning, natural language processing, and deep learning. 
 
-I have been working as a data scientist at [Microsoft](https://www.microsoft.com/en-us/)'s CSX Data team since 2019, adding intelligence and AI to the services side of Windows OS. Areas of my work include the following:
+I have been working as a data scientist at [Microsoft](https://www.microsoft.com/en-us/)'s Windows + Devices Data team since 2019, working to improve Windows 10 and 11 operating system using data science and machine learning. More specifically, areas of my work include the following:
 
-* Deriving business insights from customer feedback for Windows OS
-* Advancing in-house NLP knowledge by applying latest research techniques to customer feedback
+* Deriving business insights from customer feedback for Windows OS by correlating with diagnostic telemetry (patent pending)
+* Advancing in-house NLP knowledge by applying latest research techniques to customer feedback 
+* Evaluating reliabilty and fairness of on-client ML models 
 * Developing novel statistical methods for pattern-less personal data detection
 * Mentoring other early-in-career data scientists and interns
 
