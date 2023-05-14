@@ -8,9 +8,9 @@ Below are some data science and machine learning projects from academia and pers
 
 # Implementation of Transformer
 
-My implementation of transformer architecture from scratch using several different resources.
+My implementation of transformer architecture from scratch using several different resources. The implementation is of the "vanilla" transformer descripted in Attention is All You Need Paper. 
 
-[<img src="https://github.com/ryanbae89/ryanbae89.github.io/blob/master/images/transformer-architecture.PNG?raw=true" width="700">](https://github.com/ryanbae89/yelp-review-conversation)
+[<img src="https://github.com/ryanbae89/ryanbae89.github.io/blob/master/images/transformer-architecture.PNG?raw=true" width="700">](https://github.com/ryanbae89/my-transformer)
 
 [GitHub Repo](https://github.com/ryanbae89/my-transformer)
 
