@@ -24,6 +24,6 @@ Prior to becoming a data scientist I worked as a spacecraft propulsion engineer 
 
 Please take a look at the [resume page](https://ryanbae89.github.io/resume/) for my complete professional and academic history.
 
-And Please take a look at the [projects page](https://ryanbae89.github.io/projects/) for a portfolio of some the data science/machine learning projects I've completed in the past (mostly academic).
+And Please take a look at the [projects page](https://ryanbae89.github.io/projects/) for a portfolio of some the data science/machine learning projects I've completed in the past outside of work.
 
 In my spare time I enjoy hiking and exploring the great outdoors that the Pacific Northwest has to offer. I am also an amateur guitar player, and have played in various groups ranging from acoustic/country to student jazz bands/combos at University of Michigan. Take a look at my [recreation page](https://ryanbae89.github.io/recreation/) for more information.

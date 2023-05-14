@@ -6,6 +6,14 @@ permalink: /projects/
 
 Below are some data science and machine learning projects from academia and personal studies. Also feel free to visit my [Github page](https://github.com/heybaebae).
 
+# Implementation of Transformer
+
+My implementation of transformer architecture from scratch using several different resources.
+
+[<img src="https://github.com/ryanbae89/ryanbae89.github.io/blob/master/images/transformer-architecture.PNG?raw=true" width="700">](https://github.com/ryanbae89/yelp-review-conversation)
+
+[GitHub Repo](https://github.com/ryanbae89/my-transformer)
+
 # Yelp Reviews Q&A Bot
 
 My mom runs a small business that is service oriented, and she would often go read Yelp reviews to understand how the customers felt about her bsuiness. To help her with this, I built a GPT based question and answering bot to retrieve relevant information using conversational query. 
